@@ -1,0 +1,7 @@
+spring:
+    application:
+      name: textcount-rest-service
+
+
+server:
+  port: 9000
